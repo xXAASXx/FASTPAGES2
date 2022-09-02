@@ -3,6 +3,18 @@
 # Auto-convert markdown files To Posts
 
 [`fastpages`](https://github.com/fastai/fastpages) will automatically convert markdown files saved into this directory as blog posts!
+title: Armaan Shamsaasef's BLOG
+
+description: "Awesome description"
+layout: post
+toc: false
+comments: true
+image: images/some_folder/your_image.png
+hide: false
+search_exclude: true
+categories: [fastpages, jupyter]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
 
 You must save your notebook with the naming convention `YYYY-MM-DD-*.md`.  Examples of valid filenames are:
 

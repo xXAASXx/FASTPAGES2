@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Java Notebook",
-            "content": "public class HelloWorld { public static void main(String[] args) { System.out.println(&quot;Hello World!&quot;); } } HelloWorld.main(null); . Hello World! .",
+            "content": "public class HelloWorld { public static void main(String[] args) { System.out.println(&quot;Hello World!&quot;); } } HelloWorld.main(null); . Failed to start the Kernel. Kernel Java is not usable. Check the Jupyter output tab for more information. View Jupyter &lt;a href=&#39;command:jupyter.viewOutput&#39;&gt;log&lt;/a&gt; for further details. .",
             "url": "https://xxaasxx.github.io/FASTPAGES2/2022/09/06/JavaNotebook.html",
             "relUrl": "/2022/09/06/JavaNotebook.html",
             "date": " • Sep 6, 2022"
